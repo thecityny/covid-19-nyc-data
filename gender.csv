@@ -251,3 +251,10 @@ timestamp,type,female,male,unknown,total
 2020-04-18T22:00:00Z,deaths-no-underlying,8,42,0,50
 2020-04-18T22:00:00Z,deaths-pending-underlying,908,1325,8,2241
 2020-04-18T22:00:00Z,ever-hospitalized,14242,20331,29,34602
+2020-04-19T22:00:00Z,cases,62605,69561,301,132467
+2020-04-19T22:00:00Z,deaths-probable,1188,1541,0,2729
+2020-04-19T22:00:00Z,deaths,3517,5557,27,9101
+2020-04-19T22:00:00Z,deaths-underlying,2550,4115,18,6683
+2020-04-19T22:00:00Z,deaths-no-underlying,8,44,0,52
+2020-04-19T22:00:00Z,deaths-pending-underlying,959,1398,9,2366
+2020-04-19T22:00:00Z,ever-hospitalized,14296,20402,31,34729
