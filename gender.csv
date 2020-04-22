@@ -265,7 +265,6 @@ timestamp,type,female,male,unknown,total
 2020-04-20T22:00:00Z,deaths-no-underlying,8,46,0,54
 2020-04-20T22:00:00Z,deaths-pending-underlying,1012,1477,9,2498
 2020-04-20T22:00:00Z,ever-hospitalized,14725,20990,31,35746
-<<<<<<< HEAD
 2020-04-21T22:00:00Z,cases,65670,72444,321,138435
 2020-04-21T22:00:00Z,deaths-probable,1342,1787,0,3129
 2020-04-21T22:00:00Z,deaths,3853,6083,8,9944
@@ -273,5 +272,3 @@ timestamp,type,female,male,unknown,total
 2020-04-21T22:00:00Z,deaths-no-underlying,8,50,0,58
 2020-04-21T22:00:00Z,deaths-pending-underlying,1049,1568,2,2619
 2020-04-21T22:00:00Z,ever-hospitalized,14810,21097,13,35920
-=======
->>>>>>> aa0835e0edbdc569aa5c335d663d567a5830f33d
