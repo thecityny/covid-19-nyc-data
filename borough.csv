@@ -269,6 +269,7 @@ timestamp,type,bronx,brooklyn,manhattan,queens,staten_island,unknown,total
 2020-04-20T22:00:00Z,deaths-no-underlying,8,16,8,22,0,0,54
 2020-04-20T22:00:00Z,deaths-pending-underlying,200,901,443,800,153,1,2498
 2020-04-20T22:00:00Z,ever-hospitalized,8346,9426,4930,11431,1598,15,35746
+<<<<<<< HEAD
 2020-04-21T22:00:00Z,cases,31130,36699,17495,42637,10405,69,138435
 2020-04-21T22:00:00Z,deaths-probable,621,1054,430,913,100,11,3129
 2020-04-21T22:00:00Z,deaths,2207,2929,1316,3002,485,5,9944
@@ -276,3 +277,5 @@ timestamp,type,bronx,brooklyn,manhattan,queens,staten_island,unknown,total
 2020-04-21T22:00:00Z,deaths-no-underlying,8,17,8,25,0,0,58
 2020-04-21T22:00:00Z,deaths-pending-underlying,206,940,459,851,162,1,2619
 2020-04-21T22:00:00Z,ever-hospitalized,8406,9460,4951,11481,1607,15,35920
+=======
+>>>>>>> aa0835e0edbdc569aa5c335d663d567a5830f33d

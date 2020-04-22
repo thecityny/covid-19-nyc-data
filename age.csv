@@ -260,6 +260,7 @@ timestamp,type,ages_0_17,ages_18_44,ages_45_64,ages_65_74,ages_75_older,unknown,
 2020-04-20T22:00:00Z,deaths-no-underlying,0,9,40,4,1,0,54
 2020-04-20T22:00:00Z,deaths-pending-underlying,0,72,270,652,1501,3,2498
 2020-04-20T22:00:00Z,ever-hospitalized,232,5105,12675,8127,9605,2,35746
+<<<<<<< HEAD
 2020-04-21T22:00:00Z,cases,2839,51217,50694,17474,15932,279,138435
 2020-04-21T22:00:00Z,deaths-probable,2,92,663,718,1654,0,3129
 2020-04-21T22:00:00Z,deaths,3,426,2243,2469,4801,2,9944
@@ -267,3 +268,5 @@ timestamp,type,ages_0_17,ages_18_44,ages_45_64,ages_65_74,ages_75_older,unknown,
 2020-04-21T22:00:00Z,deaths-no-underlying,0,9,44,4,1,0,58
 2020-04-21T22:00:00Z,deaths-pending-underlying,0,74,282,680,1581,2,2619
 2020-04-21T22:00:00Z,ever-hospitalized,232,5115,12724,8164,9683,2,35920
+=======
+>>>>>>> aa0835e0edbdc569aa5c335d663d567a5830f33d
