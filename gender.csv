@@ -384,3 +384,10 @@ timestamp,type,female,male,unknown,total
 2020-05-07T22:00:00Z,deaths-no-underlying,12,81,0,93
 2020-05-07T22:00:00Z,deaths-pending-underlying,1381,2089,5,3475
 2020-05-07T22:00:00Z,ever-hospitalized,18366,25465,82,43913
+2020-05-08T22:00:00Z,cases,86106,91260,115,177481
+2020-05-08T22:00:00Z,deaths-probable,1928,2434,0,4362
+2020-05-08T22:00:00Z,deaths,5671,8805,6,14482
+2020-05-08T22:00:00Z,deaths-underlying,4266,6634,3,10903
+2020-05-08T22:00:00Z,deaths-no-underlying,12,81,0,93
+2020-05-08T22:00:00Z,deaths-pending-underlying,1393,2090,3,3486
+2020-05-08T22:00:00Z,ever-hospitalized,18555,25665,36,44256
