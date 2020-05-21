@@ -1,4 +1,5 @@
 # COVID-19 New York City Data
+_**Update - May 21, 2020:** We are now updating `hospitalized.csv` using data [from the state](https://forward.ny.gov/daily-hospitalization-summary-region), which is a more accurate version of our existing numbers from city hall. We've updated all records since March 26._
 
 _**Update - May 19, 2020:** We are no longer updating `borough.csv`, `age.csv`, `gender.csv`, `nyc.csv` and `zcta.csv`. This data is now available from May 18 on through the Department of Health and Mental Hygiene [coronavirus data repo](https://github.com/nychealth/coronavirus-data). We will continue to update `state.csv`, `hospitalized.csv` and `beds.csv` as we receive data._
 
