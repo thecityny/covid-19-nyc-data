@@ -1,4 +1,7 @@
 # COVID-19 New York City Data
+
+_**Update - March 31, 2021:** The governor's office has stopped providing the number of available hospital and ICU beds in New York on a regular basis, so we are no longer updating `beds.csv`. Since this is the only file we updated regularly after June 30, 2020, we don't plan to make future updates to this repository._
+
 _**Update - June 30, 2020:** We are no longer updating `state.csv` and `hospitalized.csv`. State testing data can be found on the department of health [open data portal](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e) and hospitalization data is available from the [state dashboard](https://forward.ny.gov/daily-hospitalization-summary-region). We will continue to update `beds.csv`._
 
 _**Update - May 21, 2020:** We are now updating `hospitalized.csv` using data [from the state](https://forward.ny.gov/daily-hospitalization-summary-region), which is a more accurate version of our existing numbers from city hall. We've updated all records since March 26._
